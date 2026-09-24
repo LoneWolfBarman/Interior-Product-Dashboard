@@ -37,11 +37,11 @@ Dynamic filters for City and State enable deeper exploration of business perform
  ✅ Interactive decision-support reporting
 
 ◉ Tools & Technologies
-➼ Power BI Desktop
-➼ Power Query
-➼ DAX (Data Analysis Expressions)
-➼ Data Modeling
-➼ Interactive Visualizations
+📊 Power BI Desktop
+📂 Power Query
+🧠 DAX (Data Analysis Expressions)
+📝 Data Modeling
+📁 Interactive Visualizations
 
 ◉ Dashboard KPIs
 ➼ Total Sales: 518.07K
@@ -60,5 +60,5 @@ Dynamic filters for City and State enable deeper exploration of business perform
 ◉ Objective: Transform raw sales data into actionable business insights through an interactive and executive-friendly Power BI dashboard for the interior products industry.
 
 ◉ Screenshot/Demo: 
-Show what the Dashboard looks like: 
+Show what the Dashboard looks like: [Alt text](https://github.com/LoneWolfBarman)
 Example: [Dashboard Preview](https://github.com/LoneWolfBarman/Interior-Product-Dashboard/blob/main/Interior%20Product%20Dashboard_Screenshot.png)
