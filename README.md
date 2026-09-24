@@ -58,3 +58,6 @@ Dynamic filters for City and State enable deeper exploration of business perform
 ➼ Data Visualization Best Practices
 
 ◉ Objective: Transform raw sales data into actionable business insights through an interactive and executive-friendly Power BI dashboard for the interior products industry.
+
+Screenshot/Demo: 
+Show what the Dashboard looks like: https://github.com/LoneWolfBarman/Interior-Product-Dashboard/blob/main/Interior%20Product%20Dashboard_Screenshot.png
